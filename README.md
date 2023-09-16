@@ -21,7 +21,7 @@ The CarWale Homepage Clone project is a demonstration of my web development skil
 
 ## Getting Started
 
-To view the CarWale Homepage Clone, you can visit <href scr="carwale-clone.vercel.app"/>. If you'd like to explore or contribute to the code, you can clone this repository and follow these steps:
+To view the CarWale Homepage Clone, you can visit <href scr="carwale-clone.vercel.app">Here</href>. If you'd like to explore or contribute to the code, you can clone this repository and follow these steps:
 
 ```bash
 git clone [repository URL]
