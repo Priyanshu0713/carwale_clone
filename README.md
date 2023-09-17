@@ -24,7 +24,7 @@ The CarWale Homepage Clone project is a demonstration of my web development skil
 To view the CarWale Homepage Clone, you can visit [Carwale_clone](https://carwale-clone.vercel.app/). If you'd like to explore or contribute to the code, you can clone this repository and follow these steps:
 
 ```bash
-git clone [repository URL]
-cd [repository directory]
-git install (install dependencies)
+git clone https://github.com/Priyanshu0713/carwale_clone.git
+cd carwale_clone
+npm install
 npm start
