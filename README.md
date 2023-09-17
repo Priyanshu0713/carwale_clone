@@ -26,4 +26,5 @@ To view the CarWale Homepage Clone, you can visit [Carwale_clone](https://carwal
 ```bash
 git clone [repository URL]
 cd [repository directory]
-# Open the index.html file in your preferred web browser
+git install (install dependencies)
+npm start
